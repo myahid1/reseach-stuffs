@@ -1,0 +1,120 @@
+﻿country,country_isocode,region,sector,good,all_exploitations,cl,fl,fcl,country_numericcode,analysis_year
+Afghanistan,AF,IP,Manufacturing,Bricks,CL FL FCL,2009-,2011-,2011-,5310,2025
+Angola,AO,AF,Mining,Diamonds,CL FL,2010-,2010-,,7620,2025
+Argentina,AR,LAC,Manufacturing,Garments,CL FL FCL,2009-,2009-,2009-,3570,2025
+Bangladesh,BD,IP,Manufacturing,Dried Fish,CL FL FCL,2009-,2012-,2012-,5380,2025
+Benin,BJ,AF,Agriculture,Cotton,CL FL FCL,2009-,2009-,2009-,7610,2025
+Bolivia,BO,LAC,Agriculture,Brazil Nuts/Chestnuts,CL FL FCL,2009-,2009-,2009-,3350,2025
+Bolivia,BO,LAC,Agriculture,Cattle,FL,,2009-,,3350,2025
+Bolivia,BO,LAC,Agriculture,Corn,CL FL,2012-,2009-,,3350,2025
+Bolivia,BO,LAC,Agriculture,Peanuts,FL,,2009-,,3350,2025
+Bolivia,BO,LAC,Agriculture,Sugarcane,CL FL FCL,2009-,2009-,2009-,3350,2025
+Brazil,BR,LAC,Agriculture,Cattle,CL FL,2009-,2009-,,3510,2025
+Brazil,BR,LAC,Agriculture,Charcoal,CL FL FCL,2009-,2009-,2010-2010,3510,2025
+Brazil,BR,LAC,Agriculture,Coffee,CL FL,2018-,2020-,,3510,2025
+Brazil,BR,LAC,Manufacturing,Garments,FL,,2012-,,3510,2025
+Brazil,BR,LAC,Agriculture,Sugarcane,CL FL,2018-,2009-,,3510,2025
+Brazil,BR,LAC,Agriculture,Timber,FL,,2009-,,3510,2025
+Burkina Faso,BF,AF,Agriculture,Cotton,CL FL FCL,2009-,2009-,2009-,7600,2025
+Burkina Faso,BF,AF,Mining,Gold,CL FL FCL,2009-,2009-,2009-,7600,2025
+Burma,MM,IP,Agriculture,Bamboo,CL FL FCL,2009-,2009-,2009-,5460,2025
+Burma,MM,IP,Agriculture,"Beans (green, soy, yellow)",CL FL FCL,2009-,2009-,2009-,5460,2025
+Burma,MM,IP,Manufacturing,Bricks,CL FL FCL,2009-,2009-,2009-,5460,2025
+Burma,MM,IP,Mining,Jade,CL FL,2009-,2009-,,5460,2025
+Burma,MM,IP,Agriculture,Palm Thatch,FL,,2009-,,5460,2025
+Burma,MM,IP,Agriculture,Rice,CL FL FCL,2009-,2009-,2009-,5460,2025
+Burma,MM,IP,Agriculture,Rubber,CL FL FCL,2009-,2009-,2009-,5460,2025
+Burma,MM,IP,Mining,Rubies,CL FL,2009-,2009-,,5460,2025
+Burma,MM,IP,Agriculture,Sesame,FL,,2009-,,5460,2025
+Burma,MM,IP,Agriculture,Shrimp,FL,,2009-,,5460,2025
+Burma,MM,IP,Agriculture,Sugarcane,CL FL FCL,2009-,2009-,2009-,5460,2025
+Burma,MM,IP,Agriculture,Sunflowers,FL,,2009-,,5460,2025
+Burma,MM,IP,Agriculture,Teak,CL FL FCL,2009-,2009-,2009-,5460,2025
+Cambodia,KH,IP,Manufacturing,Bricks,CL FL,2009-,2020-,,5550,2025
+China,CN,IP,Manufacturing,Artificial Flowers,FL,,2009-,,5700,2025
+China,CN,IP,Manufacturing,Bricks,CL FL FCL,2009-,2009-,2009-,5700,2025
+China,CN,IP,Manufacturing,Christmas Decorations,FL,,2009-,,5700,2025
+China,CN,IP,Mining,Coal,FL,,2009-,,5700,2025
+China,CN,IP,Agriculture,Cotton,CL FL FCL,2009-,2009-,2009-,5700,2025
+China,CN,IP,Manufacturing,Electronics,CL FL FCL,2009-,2009-,2009-,5700,2025
+China,CN,IP,Manufacturing,Fireworks,CL FL,2009-,2009-,,5700,2025
+China,CN,IP,Agriculture,Fish,FL,,2020-,,5700,2025
+China,CN,IP,Manufacturing,Footwear,FL,,2009-,,5700,2025
+China,CN,IP,Manufacturing,Garments,FL,,2009-,,5700,2025
+China,CN,IP,Manufacturing,Gloves,FL,,2020-,,5700,2025
+China,CN,IP,Manufacturing,Hair products,FL,,2020-,,5700,2025
+China,CN,IP,Manufacturing,Nails,FL,,2009-,,5700,2025
+China,CN,IP,Manufacturing,Polysilicon,FL,,2021-,,5700,2025
+China,CN,IP,Manufacturing,Textiles,CL FL,2009-,2020-,,5700,2025
+China,CN,IP,Manufacturing,Thread/Yarn,FL,,2020-,,5700,2025
+China,CN,IP,Manufacturing,Tomato Products,FL,,2020-,,5700,2025
+China,CN,IP,Manufacturing,Toys,CL FL FCL,2009-,2009-,2009-,5700,2025
+Colombia,CO,LAC,Agriculture,Coca (stimulant plant),CL FL FCL,2009-,2009-,2009-,3010,2025
+"Congo, Democratic Republic of the",CD,AF,Mining,Gold,CL FL FCL,2009-,2012-,2014-,7660,2025
+"Congo, Democratic Republic of the",CD,AF,Mining,Tantalum ore (coltan),CL FL FCL,2009-,2011-,2011-,7660,2025
+"Congo, Democratic Republic of the",CD,AF,Mining,Tin ore (cassiterite),CL FL FCL,2010-,2011-,2011-,7660,2025
+"Congo, Democratic Republic of the",CD,AF,Mining,Tungsten ore (wolframite),CL FL FCL,2010-,2012-,2014-,7660,2025
+CÃ´te d'Ivoire,CI,AF,Agriculture,Cocoa,CL FL FCL,2009-,2009-,2009-,7480,2025
+CÃ´te d'Ivoire,CI,AF,Agriculture,Coffee,CL FL FCL,2009-,2009-,2009-,7480,2025
+Dominican Republic,DO,LAC,Agriculture,Sugarcane,CL FL,2009-,2009-,,2470,2025
+Ethiopia,ET,AF,Manufacturing,Textiles (hand-woven),CL FL FCL,2010-,2010-,2014-,7749,2025
+Ghana,GH,AF,Agriculture,Fish,CL FL FCL,2012-,2012-,2012-,7490,2025
+Ghana,GH,AF,Agriculture,Tilapia (fish),CL FL FCL,2009-,2009-,2009-,7490,2025
+India,IN,IP,Manufacturing,Bricks,CL FL FCL,2009-,2009-,2009-,5330,2025
+India,IN,IP,Manufacturing,Carpets,CL FL,2009-,2009-,,5330,2025
+India,IN,IP,Agriculture,Cottonseed (hybrid),CL FL FCL,2009-,2009-,2009-,5330,2025
+India,IN,IP,Manufacturing,Embellished Textiles,CL FL FCL,2009-,2009-,2009-,5330,2025
+India,IN,IP,Manufacturing,Garments,CL FL FCL,2009-,2009-,2009-,5330,2025
+India,IN,IP,Agriculture,Rice,CL FL FCL,2009-,2009-,2009-,5330,2025
+India,IN,IP,Mining,Stones,CL FL FCL,2009-,2009-,2009-,5330,2025
+Indonesia,ID,IP,Agriculture,Fish,CL FL,2012-,2016-,,5600,2025
+Indonesia,ID,IP,Agriculture,Oil (palm),CL FL,2010-,2020-,,5600,2025
+Kazakhstan,KZ,IP,Agriculture,Cotton,CL FL,2009-,2009-,,4634,2025
+Malawi,MW,AF,Agriculture,Tobacco,CL FL FCL,2009-,2009-,2009-,7970,2025
+Malaysia ,MY,IP,Manufacturing,Electronics,FL,,2014-,,5570,2025
+Malaysia ,MY,IP,Manufacturing,Garments,FL,,2009-,,5570,2025
+Malaysia ,MY,IP,Agriculture,Oil (palm),CL FL,2014-,2009-,,5570,2025
+Malaysia ,MY,IP,Manufacturing,Rubber Gloves,FL,,2020-,,5570,2025
+Mali,ML,AF,Agriculture,Rice,CL FL FCL,2009-,2009-,2009-,7450,2025
+Mexico,MX,LAC,Agriculture,Chile Peppers,CL FL,2009-,2018-,,2010,2025
+Mexico,MX,LAC,Agriculture,Tomatoes,CL FL,2009-,2018-,,2010,2025
+Nepal,NP,IP,Manufacturing,Bricks,CL FL FCL,2009-,2009-,2009-,5360,2025
+Nepal,NP,IP,Manufacturing,Carpets,CL FL FCL,2009-,2009-,2009-,5360,2025
+Nepal,NP,IP,Manufacturing,Embellished Textiles,CL FL FCL,2009-,2009-,2009-,5360,2025
+Nepal,NP,IP,Mining,Stones,CL FL FCL,2009-,2009-,2009-,5360,2025
+Niger,NE,AF,Agriculture,Cattle,FL,,2012-,,7510,2025
+Nigeria,NG,AF,Agriculture,Cocoa,CL FL FCL,2009-,2009-,2009-,7530,2025
+Nigeria,NG,AF,Mining,Granite,CL FL FCL,2009-,2009-,2009-,7530,2025
+Nigeria,NG,AF,Mining,Gravel (crushed stones),CL FL FCL,2009-,2009-,2009-,7530,2025
+North Korea,KP,IP,Manufacturing,Bricks,FL,,2009-,,5790,2025
+North Korea,KP,IP,Manufacturing,Cement,FL,,2009-,,5790,2025
+North Korea,KP,IP,Mining,Coal,FL,,2009-,,5790,2025
+North Korea,KP,IP,Mining,Gold,FL,,2009-,,5790,2025
+North Korea,KP,IP,Mining,Iron,FL,,2009-,,5790,2025
+North Korea,KP,IP,Manufacturing,Textiles,FL,,2009-,,5790,2025
+North Korea,KP,IP,Agriculture,Timber,FL,,2012-,,5790,2025
+Pakistan,PK,IP,Manufacturing,Bricks,CL FL FCL,2009-,2009-,2009-,5350,2025
+Pakistan,PK,IP,Manufacturing,Carpets,CL FL FCL,2009-,2009-,2009-,5350,2025
+Pakistan,PK,IP,Mining,Coal,CL FL FCL,2009-,2009-,2009-,5350,2025
+Pakistan,PK,IP,Agriculture,Cotton,FL,,2009-,,5350,2025
+Pakistan,PK,IP,Agriculture,Sugarcane,FL,,2009-,,5350,2025
+Pakistan,PK,IP,Agriculture,Wheat,FL,,2009-,,5350,2025
+Paraguay,PY,LAC,Agriculture,Cattle,CL FL,2018-,2009-,,3530,2025
+Peru,PE,LAC,Agriculture,Brazil Nuts/Chestnuts,FL,,2009-,,3330,2025
+Peru,PE,LAC,Mining,Gold,CL FL,2009-,2009-,,3330,2025
+Peru,PE,LAC,Agriculture,Timber,FL,,2009-,,3330,2025
+Russia,RU,EUR,Manufacturing,Bricks,FL,,2018-,,4621,2025
+Russia,RU,EUR,Other,Pornography,CL FL FCL,2009-,2009-,2009-,4621,2025
+Russia,RU,EUR,Agriculture,Timber,FL,,2018-,,4621,2025
+Sierra Leone,SL,AF,Mining,Diamonds,CL FL FCL,2009-,2009-,2009-,7470,2025
+South Sudan,SS,AF,Agriculture,Cattle,CL FL FCL,2012-,2012-,2014-,7323,2025
+Taiwan,TW,IP,Agriculture,Fish,FL,,2020-,,5830,2025
+Tajikistan,TJ,EUR,Agriculture,Cotton,CL FL FCL,2009-,2009-,2009-,4642,2025
+Thailand,TH,IP,Agriculture,Fish,FL,,2012-,,5490,2025
+Thailand,TH,IP,Manufacturing,Garments,CL FL FCL,2009-,2009-,2009-,5490,2025
+Thailand,TH,IP,Agriculture,Shrimp,CL FL FCL,2009-,2009-,2009-,5490,2025
+Turkmenistan ,TM,EUR,Agriculture,Cotton,CL FL,2009-,2009-,,4643,2025
+Uzbekistan,UZ,IP,Agriculture,Cotton,CL FL FCL,2009-2017,2009-,2010-2018,4644,2025
+Uzbekistan,UZ,IP,Agriculture,Silk Cocoons,FL,,2016-,,4644,2025
+Venezuela,VE,LAC,Mining,Gold,FL,,2020-,,3070,2025
+Vietnam,VN,IP,Manufacturing,Garments,CL FL FCL,2012-,2012-,2014-,5520,2025

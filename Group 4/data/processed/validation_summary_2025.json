@@ -1,0 +1,40 @@
+{
+  "analysis_year": 2025,
+  "hs_revision": "HS2022",
+  "raw_core_rows": 446,
+  "raw_mapping_rows": 300,
+  "hs2022_reference_codes": 5613,
+  "active_fl_country_good_pairs": 119,
+  "mapped_country_good_pairs": 91,
+  "unmapped_country_good_pairs": 28,
+  "candidate_detail_rows": 3163,
+  "unique_country_hs6_candidates": 3156,
+  "unique_hs6_candidates": 832,
+  "review_counts": {
+    "broad_prefix_expansion_needs_scope_review": 124,
+    "no_mapping_in_download": 28,
+    "no_valid_HS2022_match": 2
+  },
+  "unmapped_goods": [
+    "Hair products",
+    "Pornography",
+    "Stones",
+    "Sugarcane",
+    "Sunflowers",
+    "Tantalum ore (coltan)",
+    "Teak",
+    "Textiles",
+    "Textiles (hand-woven)",
+    "Thread/Yarn",
+    "Tilapia (fish)",
+    "Timber",
+    "Tin ore (cassiterite)",
+    "Tobacco",
+    "Tomato Products",
+    "Tomatoes",
+    "Toys",
+    "Tungsten ore (wolframite)",
+    "Wheat"
+  ],
+  "warning": "Partial historical DOL snapshot; screening candidates, not a complete validated risk universe. Absence is not zero risk."
+}

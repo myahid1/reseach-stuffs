@@ -1,0 +1,8 @@
+{
+  "file": "UN_Comtrade_H6_HS2022.json",
+  "source_url": "https://comtradeapi.un.org/files/v1/app/reference/H6.json",
+  "publisher": "United Nations Comtrade",
+  "classification": "HS2022 (H6)",
+  "retrieved_utc": "2026-10-03T17:04:15.768925+00:00",
+  "sha256": "e266823e1299d1307c5d7986eb738b83aa5e5bd9af675bf19bf372220660be15"
+}

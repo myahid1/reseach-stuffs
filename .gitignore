@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.jupyter/
+/SDS_Group4_DOL_HS6.zip

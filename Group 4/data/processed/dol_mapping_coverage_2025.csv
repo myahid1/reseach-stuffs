@@ -1,0 +1,120 @@
+﻿country,country_isocode,good,fl,analysis_year,hs_revision,source_mapping_rows,candidate_hs6_count,review_items,mapping_coverage
+Afghanistan,AF,Bricks,2011-,2025,HS2022,6,7,3,has_candidates
+Angola,AO,Diamonds,2010-,2025,HS2022,1,5,1,has_candidates
+Argentina,AR,Garments,2009-,2025,HS2022,2,210,2,has_candidates
+Bangladesh,BD,Dried Fish,2012-,2025,HS2022,8,8,0,has_candidates
+Benin,BJ,Cotton,2009-,2025,HS2022,1,1,1,has_candidates
+Bolivia,BO,Brazil Nuts/Chestnuts,2009-,2025,HS2022,4,4,0,has_candidates
+Bolivia,BO,Cattle,2009-,2025,HS2022,2,2,0,has_candidates
+Bolivia,BO,Corn,2009-,2025,HS2022,6,4,1,has_candidates
+Bolivia,BO,Peanuts,2009-,2025,HS2022,1,3,1,has_candidates
+Bolivia,BO,Sugarcane,2009-,2025,HS2022,0,0,1,unmapped
+Brazil,BR,Cattle,2009-,2025,HS2022,2,2,0,has_candidates
+Brazil,BR,Charcoal,2009-,2025,HS2022,1,3,1,has_candidates
+Brazil,BR,Coffee,2020-,2025,HS2022,1,5,1,has_candidates
+Brazil,BR,Garments,2012-,2025,HS2022,2,210,2,has_candidates
+Brazil,BR,Sugarcane,2009-,2025,HS2022,0,0,1,unmapped
+Brazil,BR,Timber,2009-,2025,HS2022,0,0,1,unmapped
+Burkina Faso,BF,Cotton,2009-,2025,HS2022,1,1,1,has_candidates
+Burkina Faso,BF,Gold,2009-,2025,HS2022,2,5,1,has_candidates
+Burma,MM,Bamboo,2009-,2025,HS2022,7,7,2,has_candidates
+Burma,MM,"Beans (green, soy, yellow)",2009-,2025,HS2022,4,4,1,has_candidates
+Burma,MM,Bricks,2009-,2025,HS2022,6,7,3,has_candidates
+Burma,MM,Jade,2009-,2025,HS2022,4,4,3,has_candidates
+Burma,MM,Palm Thatch,2009-,2025,HS2022,1,1,0,has_candidates
+Burma,MM,Rice,2009-,2025,HS2022,2,5,1,has_candidates
+Burma,MM,Rubber,2009-,2025,HS2022,1,5,1,has_candidates
+Burma,MM,Rubies,2009-,2025,HS2022,2,2,1,has_candidates
+Burma,MM,Sesame,2009-,2025,HS2022,1,1,0,has_candidates
+Burma,MM,Shrimp,2009-,2025,HS2022,5,5,0,has_candidates
+Burma,MM,Sugarcane,2009-,2025,HS2022,0,0,1,unmapped
+Burma,MM,Sunflowers,2009-,2025,HS2022,0,0,1,unmapped
+Burma,MM,Teak,2009-,2025,HS2022,0,0,1,unmapped
+Cambodia,KH,Bricks,2020-,2025,HS2022,6,7,3,has_candidates
+China,CN,Artificial Flowers,2009-,2025,HS2022,1,2,1,has_candidates
+China,CN,Bricks,2009-,2025,HS2022,6,7,3,has_candidates
+China,CN,Christmas Decorations,2009-,2025,HS2022,3,4,2,has_candidates
+China,CN,Coal,2009-,2025,HS2022,1,4,1,has_candidates
+China,CN,Cotton,2009-,2025,HS2022,1,1,1,has_candidates
+China,CN,Electronics,2009-,2025,HS2022,1,296,1,has_candidates
+China,CN,Fireworks,2009-,2025,HS2022,1,1,1,has_candidates
+China,CN,Fish,2020-,2025,HS2022,4,145,4,has_candidates
+China,CN,Footwear,2009-,2025,HS2022,1,25,1,has_candidates
+China,CN,Garments,2009-,2025,HS2022,2,210,2,has_candidates
+China,CN,Gloves,2020-,2025,HS2022,2,2,0,has_candidates
+China,CN,Hair products,2020-,2025,HS2022,0,0,1,unmapped
+China,CN,Nails,2009-,2025,HS2022,3,3,1,has_candidates
+China,CN,Polysilicon,2021-,2025,HS2022,1,1,0,has_candidates
+China,CN,Textiles,2020-,2025,HS2022,0,0,1,unmapped
+China,CN,Thread/Yarn,2020-,2025,HS2022,0,0,1,unmapped
+China,CN,Tomato Products,2020-,2025,HS2022,0,0,1,unmapped
+China,CN,Toys,2009-,2025,HS2022,0,0,1,unmapped
+Colombia,CO,Coca (stimulant plant),2009-,2025,HS2022,1,1,0,has_candidates
+"Congo, Democratic Republic of the",CD,Gold,2012-,2025,HS2022,2,5,1,has_candidates
+"Congo, Democratic Republic of the",CD,Tantalum ore (coltan),2011-,2025,HS2022,0,0,1,unmapped
+"Congo, Democratic Republic of the",CD,Tin ore (cassiterite),2011-,2025,HS2022,0,0,1,unmapped
+"Congo, Democratic Republic of the",CD,Tungsten ore (wolframite),2012-,2025,HS2022,0,0,1,unmapped
+CÃ´te d'Ivoire,CI,Cocoa,2009-,2025,HS2022,2,2,0,has_candidates
+CÃ´te d'Ivoire,CI,Coffee,2009-,2025,HS2022,1,5,1,has_candidates
+Dominican Republic,DO,Sugarcane,2009-,2025,HS2022,0,0,1,unmapped
+Ethiopia,ET,Textiles (hand-woven),2010-,2025,HS2022,0,0,1,unmapped
+Ghana,GH,Fish,2012-,2025,HS2022,4,145,4,has_candidates
+Ghana,GH,Tilapia (fish),2009-,2025,HS2022,0,0,1,unmapped
+India,IN,Bricks,2009-,2025,HS2022,6,7,3,has_candidates
+India,IN,Carpets,2009-,2025,HS2022,5,24,5,has_candidates
+India,IN,Cottonseed (hybrid),2009-,2025,HS2022,2,2,0,has_candidates
+India,IN,Embellished Textiles,2009-,2025,HS2022,3,3,0,has_candidates
+India,IN,Garments,2009-,2025,HS2022,2,210,2,has_candidates
+India,IN,Rice,2009-,2025,HS2022,2,5,1,has_candidates
+India,IN,Stones,2009-,2025,HS2022,0,0,1,unmapped
+Indonesia,ID,Fish,2016-,2025,HS2022,4,145,4,has_candidates
+Indonesia,ID,Oil (palm),2020-,2025,HS2022,5,6,1,has_candidates
+Kazakhstan,KZ,Cotton,2009-,2025,HS2022,1,1,1,has_candidates
+Malawi,MW,Tobacco,2009-,2025,HS2022,0,0,1,unmapped
+Malaysia ,MY,Electronics,2014-,2025,HS2022,1,296,1,has_candidates
+Malaysia ,MY,Garments,2009-,2025,HS2022,2,210,2,has_candidates
+Malaysia ,MY,Oil (palm),2009-,2025,HS2022,5,6,1,has_candidates
+Malaysia ,MY,Rubber Gloves,2020-,2025,HS2022,2,1,1,has_candidates
+Mali,ML,Rice,2009-,2025,HS2022,2,5,1,has_candidates
+Mexico,MX,Chile Peppers,2018-,2025,HS2022,1,1,0,has_candidates
+Mexico,MX,Tomatoes,2018-,2025,HS2022,0,0,1,unmapped
+Nepal,NP,Bricks,2009-,2025,HS2022,6,7,3,has_candidates
+Nepal,NP,Carpets,2009-,2025,HS2022,5,24,5,has_candidates
+Nepal,NP,Embellished Textiles,2009-,2025,HS2022,3,3,0,has_candidates
+Nepal,NP,Stones,2009-,2025,HS2022,0,0,1,unmapped
+Niger,NE,Cattle,2012-,2025,HS2022,2,2,0,has_candidates
+Nigeria,NG,Cocoa,2009-,2025,HS2022,2,2,0,has_candidates
+Nigeria,NG,Granite,2009-,2025,HS2022,2,2,0,has_candidates
+Nigeria,NG,Gravel (crushed stones),2009-,2025,HS2022,1,1,0,has_candidates
+North Korea,KP,Bricks,2009-,2025,HS2022,6,7,3,has_candidates
+North Korea,KP,Cement,2009-,2025,HS2022,4,14,3,has_candidates
+North Korea,KP,Coal,2009-,2025,HS2022,1,4,1,has_candidates
+North Korea,KP,Gold,2009-,2025,HS2022,2,5,1,has_candidates
+North Korea,KP,Iron,2009-,2025,HS2022,2,5,2,has_candidates
+North Korea,KP,Textiles,2009-,2025,HS2022,0,0,1,unmapped
+North Korea,KP,Timber,2012-,2025,HS2022,0,0,1,unmapped
+Pakistan,PK,Bricks,2009-,2025,HS2022,6,7,3,has_candidates
+Pakistan,PK,Carpets,2009-,2025,HS2022,5,24,5,has_candidates
+Pakistan,PK,Coal,2009-,2025,HS2022,1,4,1,has_candidates
+Pakistan,PK,Cotton,2009-,2025,HS2022,1,1,1,has_candidates
+Pakistan,PK,Sugarcane,2009-,2025,HS2022,0,0,1,unmapped
+Pakistan,PK,Wheat,2009-,2025,HS2022,0,0,1,unmapped
+Paraguay,PY,Cattle,2009-,2025,HS2022,2,2,0,has_candidates
+Peru,PE,Brazil Nuts/Chestnuts,2009-,2025,HS2022,4,4,0,has_candidates
+Peru,PE,Gold,2009-,2025,HS2022,2,5,1,has_candidates
+Peru,PE,Timber,2009-,2025,HS2022,0,0,1,unmapped
+Russia,RU,Bricks,2018-,2025,HS2022,6,7,3,has_candidates
+Russia,RU,Pornography,2009-,2025,HS2022,0,0,1,unmapped
+Russia,RU,Timber,2018-,2025,HS2022,0,0,1,unmapped
+Sierra Leone,SL,Diamonds,2009-,2025,HS2022,1,5,1,has_candidates
+South Sudan,SS,Cattle,2012-,2025,HS2022,2,2,0,has_candidates
+Taiwan,TW,Fish,2020-,2025,HS2022,4,145,4,has_candidates
+Tajikistan,TJ,Cotton,2009-,2025,HS2022,1,1,1,has_candidates
+Thailand,TH,Fish,2012-,2025,HS2022,4,145,4,has_candidates
+Thailand,TH,Garments,2009-,2025,HS2022,2,210,2,has_candidates
+Thailand,TH,Shrimp,2009-,2025,HS2022,5,5,0,has_candidates
+Turkmenistan ,TM,Cotton,2009-,2025,HS2022,1,1,1,has_candidates
+Uzbekistan,UZ,Cotton,2009-,2025,HS2022,1,1,1,has_candidates
+Uzbekistan,UZ,Silk Cocoons,2016-,2025,HS2022,1,1,0,has_candidates
+Venezuela,VE,Gold,2020-,2025,HS2022,2,5,1,has_candidates
+Vietnam,VN,Garments,2012-,2025,HS2022,2,210,2,has_candidates

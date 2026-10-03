@@ -1,0 +1,155 @@
+﻿country,country_isocode,good,fl,analysis_year,hs_revision,source_mapping_id,source_hts_code,reason
+Afghanistan,AF,Bricks,2011-,2025,HS2022,50,6901,broad_prefix_expansion_needs_scope_review
+Afghanistan,AF,Bricks,2011-,2025,HS2022,51,6902.1,broad_prefix_expansion_needs_scope_review
+Afghanistan,AF,Bricks,2011-,2025,HS2022,54,6904,broad_prefix_expansion_needs_scope_review
+Angola,AO,Diamonds,2010-,2025,HS2022,117,7102,broad_prefix_expansion_needs_scope_review
+Argentina,AR,Garments,2009-,2025,HS2022,162,61,broad_prefix_expansion_needs_scope_review
+Argentina,AR,Garments,2009-,2025,HS2022,163,62,broad_prefix_expansion_needs_scope_review
+Benin,BJ,Cotton,2009-,2025,HS2022,111,5201,broad_prefix_expansion_needs_scope_review
+Bolivia,BO,Corn,2009-,2025,HS2022,107,1005.1,broad_prefix_expansion_needs_scope_review
+Bolivia,BO,Peanuts,2009-,2025,HS2022,252,1202,broad_prefix_expansion_needs_scope_review
+Bolivia,BO,Sugarcane,2009-,2025,HS2022,,,no_mapping_in_download
+Brazil,BR,Charcoal,2009-,2025,HS2022,88,4402,broad_prefix_expansion_needs_scope_review
+Brazil,BR,Coffee,2020-,2025,HS2022,103,0901,broad_prefix_expansion_needs_scope_review
+Brazil,BR,Garments,2012-,2025,HS2022,162,61,broad_prefix_expansion_needs_scope_review
+Brazil,BR,Garments,2012-,2025,HS2022,163,62,broad_prefix_expansion_needs_scope_review
+Brazil,BR,Sugarcane,2009-,2025,HS2022,,,no_mapping_in_download
+Brazil,BR,Timber,2009-,2025,HS2022,,,no_mapping_in_download
+Burkina Faso,BF,Cotton,2009-,2025,HS2022,111,5201,broad_prefix_expansion_needs_scope_review
+Burkina Faso,BF,Gold,2009-,2025,HS2022,173,7108,broad_prefix_expansion_needs_scope_review
+Burma,MM,Bamboo,2009-,2025,HS2022,10,4402.1,broad_prefix_expansion_needs_scope_review
+Burma,MM,Bamboo,2009-,2025,HS2022,12,4412.1,broad_prefix_expansion_needs_scope_review
+Burma,MM,"Beans (green, soy, yellow)",2009-,2025,HS2022,30,1201,broad_prefix_expansion_needs_scope_review
+Burma,MM,Bricks,2009-,2025,HS2022,50,6901,broad_prefix_expansion_needs_scope_review
+Burma,MM,Bricks,2009-,2025,HS2022,51,6902.1,broad_prefix_expansion_needs_scope_review
+Burma,MM,Bricks,2009-,2025,HS2022,54,6904,broad_prefix_expansion_needs_scope_review
+Burma,MM,Jade,2009-,2025,HS2022,190,7103.1,broad_prefix_expansion_needs_scope_review
+Burma,MM,Jade,2009-,2025,HS2022,192,7104.20.0000,no_valid_HS2022_match
+Burma,MM,Jade,2009-,2025,HS2022,193,7104.9,broad_prefix_expansion_needs_scope_review
+Burma,MM,Rice,2009-,2025,HS2022,271,1006,broad_prefix_expansion_needs_scope_review
+Burma,MM,Rubber,2009-,2025,HS2022,273,4001,broad_prefix_expansion_needs_scope_review
+Burma,MM,Rubies,2009-,2025,HS2022,276,7103.1,broad_prefix_expansion_needs_scope_review
+Burma,MM,Sugarcane,2009-,2025,HS2022,,,no_mapping_in_download
+Burma,MM,Sunflowers,2009-,2025,HS2022,,,no_mapping_in_download
+Burma,MM,Teak,2009-,2025,HS2022,,,no_mapping_in_download
+Cambodia,KH,Bricks,2020-,2025,HS2022,50,6901,broad_prefix_expansion_needs_scope_review
+Cambodia,KH,Bricks,2020-,2025,HS2022,51,6902.1,broad_prefix_expansion_needs_scope_review
+Cambodia,KH,Bricks,2020-,2025,HS2022,54,6904,broad_prefix_expansion_needs_scope_review
+China,CN,Artificial Flowers,2009-,2025,HS2022,8,6702,broad_prefix_expansion_needs_scope_review
+China,CN,Bricks,2009-,2025,HS2022,50,6901,broad_prefix_expansion_needs_scope_review
+China,CN,Bricks,2009-,2025,HS2022,51,6902.1,broad_prefix_expansion_needs_scope_review
+China,CN,Bricks,2009-,2025,HS2022,54,6904,broad_prefix_expansion_needs_scope_review
+China,CN,Christmas Decorations,2009-,2025,HS2022,91,9405.3,broad_prefix_expansion_needs_scope_review
+China,CN,Christmas Decorations,2009-,2025,HS2022,92,9505.1,broad_prefix_expansion_needs_scope_review
+China,CN,Coal,2009-,2025,HS2022,95,2701,broad_prefix_expansion_needs_scope_review
+China,CN,Cotton,2009-,2025,HS2022,111,5201,broad_prefix_expansion_needs_scope_review
+China,CN,Electronics,2009-,2025,HS2022,127,85,broad_prefix_expansion_needs_scope_review
+China,CN,Fireworks,2009-,2025,HS2022,142,3604.1,broad_prefix_expansion_needs_scope_review
+China,CN,Fish,2020-,2025,HS2022,143,0301,broad_prefix_expansion_needs_scope_review
+China,CN,Fish,2020-,2025,HS2022,144,0302,broad_prefix_expansion_needs_scope_review
+China,CN,Fish,2020-,2025,HS2022,145,0303,broad_prefix_expansion_needs_scope_review
+China,CN,Fish,2020-,2025,HS2022,146,0304,broad_prefix_expansion_needs_scope_review
+China,CN,Footwear,2009-,2025,HS2022,150,64,broad_prefix_expansion_needs_scope_review
+China,CN,Garments,2009-,2025,HS2022,162,61,broad_prefix_expansion_needs_scope_review
+China,CN,Garments,2009-,2025,HS2022,163,62,broad_prefix_expansion_needs_scope_review
+China,CN,Hair products,2020-,2025,HS2022,,,no_mapping_in_download
+China,CN,Nails,2009-,2025,HS2022,229,7317,broad_prefix_expansion_needs_scope_review
+China,CN,Textiles,2020-,2025,HS2022,,,no_mapping_in_download
+China,CN,Thread/Yarn,2020-,2025,HS2022,,,no_mapping_in_download
+China,CN,Tomato Products,2020-,2025,HS2022,,,no_mapping_in_download
+China,CN,Toys,2009-,2025,HS2022,,,no_mapping_in_download
+"Congo, Democratic Republic of the",CD,Gold,2012-,2025,HS2022,173,7108,broad_prefix_expansion_needs_scope_review
+"Congo, Democratic Republic of the",CD,Tantalum ore (coltan),2011-,2025,HS2022,,,no_mapping_in_download
+"Congo, Democratic Republic of the",CD,Tin ore (cassiterite),2011-,2025,HS2022,,,no_mapping_in_download
+"Congo, Democratic Republic of the",CD,Tungsten ore (wolframite),2012-,2025,HS2022,,,no_mapping_in_download
+CÃ´te d'Ivoire,CI,Coffee,2009-,2025,HS2022,103,0901,broad_prefix_expansion_needs_scope_review
+Dominican Republic,DO,Sugarcane,2009-,2025,HS2022,,,no_mapping_in_download
+Ethiopia,ET,Textiles (hand-woven),2010-,2025,HS2022,,,no_mapping_in_download
+Ghana,GH,Fish,2012-,2025,HS2022,143,0301,broad_prefix_expansion_needs_scope_review
+Ghana,GH,Fish,2012-,2025,HS2022,144,0302,broad_prefix_expansion_needs_scope_review
+Ghana,GH,Fish,2012-,2025,HS2022,145,0303,broad_prefix_expansion_needs_scope_review
+Ghana,GH,Fish,2012-,2025,HS2022,146,0304,broad_prefix_expansion_needs_scope_review
+Ghana,GH,Tilapia (fish),2009-,2025,HS2022,,,no_mapping_in_download
+India,IN,Bricks,2009-,2025,HS2022,50,6901,broad_prefix_expansion_needs_scope_review
+India,IN,Bricks,2009-,2025,HS2022,51,6902.1,broad_prefix_expansion_needs_scope_review
+India,IN,Bricks,2009-,2025,HS2022,54,6904,broad_prefix_expansion_needs_scope_review
+India,IN,Carpets,2009-,2025,HS2022,62,5701,broad_prefix_expansion_needs_scope_review
+India,IN,Carpets,2009-,2025,HS2022,63,5702,broad_prefix_expansion_needs_scope_review
+India,IN,Carpets,2009-,2025,HS2022,64,5703,broad_prefix_expansion_needs_scope_review
+India,IN,Carpets,2009-,2025,HS2022,65,5704,broad_prefix_expansion_needs_scope_review
+India,IN,Carpets,2009-,2025,HS2022,66,5705,broad_prefix_expansion_needs_scope_review
+India,IN,Garments,2009-,2025,HS2022,162,61,broad_prefix_expansion_needs_scope_review
+India,IN,Garments,2009-,2025,HS2022,163,62,broad_prefix_expansion_needs_scope_review
+India,IN,Rice,2009-,2025,HS2022,271,1006,broad_prefix_expansion_needs_scope_review
+India,IN,Stones,2009-,2025,HS2022,,,no_mapping_in_download
+Indonesia,ID,Fish,2016-,2025,HS2022,143,0301,broad_prefix_expansion_needs_scope_review
+Indonesia,ID,Fish,2016-,2025,HS2022,144,0302,broad_prefix_expansion_needs_scope_review
+Indonesia,ID,Fish,2016-,2025,HS2022,145,0303,broad_prefix_expansion_needs_scope_review
+Indonesia,ID,Fish,2016-,2025,HS2022,146,0304,broad_prefix_expansion_needs_scope_review
+Indonesia,ID,Oil (palm),2020-,2025,HS2022,241,1511,broad_prefix_expansion_needs_scope_review
+Kazakhstan,KZ,Cotton,2009-,2025,HS2022,111,5201,broad_prefix_expansion_needs_scope_review
+Malawi,MW,Tobacco,2009-,2025,HS2022,,,no_mapping_in_download
+Malaysia ,MY,Electronics,2014-,2025,HS2022,127,85,broad_prefix_expansion_needs_scope_review
+Malaysia ,MY,Garments,2009-,2025,HS2022,162,61,broad_prefix_expansion_needs_scope_review
+Malaysia ,MY,Garments,2009-,2025,HS2022,163,62,broad_prefix_expansion_needs_scope_review
+Malaysia ,MY,Oil (palm),2009-,2025,HS2022,241,1511,broad_prefix_expansion_needs_scope_review
+Malaysia ,MY,Rubber Gloves,2020-,2025,HS2022,274,4015.11,no_valid_HS2022_match
+Mali,ML,Rice,2009-,2025,HS2022,271,1006,broad_prefix_expansion_needs_scope_review
+Mexico,MX,Tomatoes,2018-,2025,HS2022,,,no_mapping_in_download
+Nepal,NP,Bricks,2009-,2025,HS2022,50,6901,broad_prefix_expansion_needs_scope_review
+Nepal,NP,Bricks,2009-,2025,HS2022,51,6902.1,broad_prefix_expansion_needs_scope_review
+Nepal,NP,Bricks,2009-,2025,HS2022,54,6904,broad_prefix_expansion_needs_scope_review
+Nepal,NP,Carpets,2009-,2025,HS2022,62,5701,broad_prefix_expansion_needs_scope_review
+Nepal,NP,Carpets,2009-,2025,HS2022,63,5702,broad_prefix_expansion_needs_scope_review
+Nepal,NP,Carpets,2009-,2025,HS2022,64,5703,broad_prefix_expansion_needs_scope_review
+Nepal,NP,Carpets,2009-,2025,HS2022,65,5704,broad_prefix_expansion_needs_scope_review
+Nepal,NP,Carpets,2009-,2025,HS2022,66,5705,broad_prefix_expansion_needs_scope_review
+Nepal,NP,Stones,2009-,2025,HS2022,,,no_mapping_in_download
+North Korea,KP,Bricks,2009-,2025,HS2022,50,6901,broad_prefix_expansion_needs_scope_review
+North Korea,KP,Bricks,2009-,2025,HS2022,51,6902.1,broad_prefix_expansion_needs_scope_review
+North Korea,KP,Bricks,2009-,2025,HS2022,54,6904,broad_prefix_expansion_needs_scope_review
+North Korea,KP,Cement,2009-,2025,HS2022,76,2523,broad_prefix_expansion_needs_scope_review
+North Korea,KP,Cement,2009-,2025,HS2022,78,6810,broad_prefix_expansion_needs_scope_review
+North Korea,KP,Cement,2009-,2025,HS2022,79,6811,broad_prefix_expansion_needs_scope_review
+North Korea,KP,Coal,2009-,2025,HS2022,95,2701,broad_prefix_expansion_needs_scope_review
+North Korea,KP,Gold,2009-,2025,HS2022,173,7108,broad_prefix_expansion_needs_scope_review
+North Korea,KP,Iron,2009-,2025,HS2022,188,2601,broad_prefix_expansion_needs_scope_review
+North Korea,KP,Iron,2009-,2025,HS2022,189,7206,broad_prefix_expansion_needs_scope_review
+North Korea,KP,Textiles,2009-,2025,HS2022,,,no_mapping_in_download
+North Korea,KP,Timber,2012-,2025,HS2022,,,no_mapping_in_download
+Pakistan,PK,Bricks,2009-,2025,HS2022,50,6901,broad_prefix_expansion_needs_scope_review
+Pakistan,PK,Bricks,2009-,2025,HS2022,51,6902.1,broad_prefix_expansion_needs_scope_review
+Pakistan,PK,Bricks,2009-,2025,HS2022,54,6904,broad_prefix_expansion_needs_scope_review
+Pakistan,PK,Carpets,2009-,2025,HS2022,62,5701,broad_prefix_expansion_needs_scope_review
+Pakistan,PK,Carpets,2009-,2025,HS2022,63,5702,broad_prefix_expansion_needs_scope_review
+Pakistan,PK,Carpets,2009-,2025,HS2022,64,5703,broad_prefix_expansion_needs_scope_review
+Pakistan,PK,Carpets,2009-,2025,HS2022,65,5704,broad_prefix_expansion_needs_scope_review
+Pakistan,PK,Carpets,2009-,2025,HS2022,66,5705,broad_prefix_expansion_needs_scope_review
+Pakistan,PK,Coal,2009-,2025,HS2022,95,2701,broad_prefix_expansion_needs_scope_review
+Pakistan,PK,Cotton,2009-,2025,HS2022,111,5201,broad_prefix_expansion_needs_scope_review
+Pakistan,PK,Sugarcane,2009-,2025,HS2022,,,no_mapping_in_download
+Pakistan,PK,Wheat,2009-,2025,HS2022,,,no_mapping_in_download
+Peru,PE,Gold,2009-,2025,HS2022,173,7108,broad_prefix_expansion_needs_scope_review
+Peru,PE,Timber,2009-,2025,HS2022,,,no_mapping_in_download
+Russia,RU,Bricks,2018-,2025,HS2022,50,6901,broad_prefix_expansion_needs_scope_review
+Russia,RU,Bricks,2018-,2025,HS2022,51,6902.1,broad_prefix_expansion_needs_scope_review
+Russia,RU,Bricks,2018-,2025,HS2022,54,6904,broad_prefix_expansion_needs_scope_review
+Russia,RU,Pornography,2009-,2025,HS2022,,,no_mapping_in_download
+Russia,RU,Timber,2018-,2025,HS2022,,,no_mapping_in_download
+Sierra Leone,SL,Diamonds,2009-,2025,HS2022,117,7102,broad_prefix_expansion_needs_scope_review
+Taiwan,TW,Fish,2020-,2025,HS2022,143,0301,broad_prefix_expansion_needs_scope_review
+Taiwan,TW,Fish,2020-,2025,HS2022,144,0302,broad_prefix_expansion_needs_scope_review
+Taiwan,TW,Fish,2020-,2025,HS2022,145,0303,broad_prefix_expansion_needs_scope_review
+Taiwan,TW,Fish,2020-,2025,HS2022,146,0304,broad_prefix_expansion_needs_scope_review
+Tajikistan,TJ,Cotton,2009-,2025,HS2022,111,5201,broad_prefix_expansion_needs_scope_review
+Thailand,TH,Fish,2012-,2025,HS2022,143,0301,broad_prefix_expansion_needs_scope_review
+Thailand,TH,Fish,2012-,2025,HS2022,144,0302,broad_prefix_expansion_needs_scope_review
+Thailand,TH,Fish,2012-,2025,HS2022,145,0303,broad_prefix_expansion_needs_scope_review
+Thailand,TH,Fish,2012-,2025,HS2022,146,0304,broad_prefix_expansion_needs_scope_review
+Thailand,TH,Garments,2009-,2025,HS2022,162,61,broad_prefix_expansion_needs_scope_review
+Thailand,TH,Garments,2009-,2025,HS2022,163,62,broad_prefix_expansion_needs_scope_review
+Turkmenistan ,TM,Cotton,2009-,2025,HS2022,111,5201,broad_prefix_expansion_needs_scope_review
+Uzbekistan,UZ,Cotton,2009-,2025,HS2022,111,5201,broad_prefix_expansion_needs_scope_review
+Venezuela,VE,Gold,2020-,2025,HS2022,173,7108,broad_prefix_expansion_needs_scope_review
+Vietnam,VN,Garments,2012-,2025,HS2022,162,61,broad_prefix_expansion_needs_scope_review
+Vietnam,VN,Garments,2012-,2025,HS2022,163,62,broad_prefix_expansion_needs_scope_review

@@ -1,0 +1,9 @@
+US DOL / HS6 handoff for Group 4
+
+Includes official raw DOL downloads, the UN HS2022 reference list, an executed cleaning notebook, a reproducible Python script, and derived CSVs.
+
+For 2025, the downloaded DOL snapshot yields 119 forced-labour country-good pairs. The source mapping supports HS6 candidates for 91 pairs; 28 remain unmapped. The deduplicated output has 3,156 country-HS6 candidate pairs.
+
+Start with README.md and notebooks/02_dol_data_cleaning.ipynb. Use data/processed/dol_country_hs6_screening_2025.csv for a future many-to-one trade join, after confirming the SingStat data uses HS2022 and matching origin-country identifiers.
+
+Important: the source mapping download is incomplete for these goods. Broad code expansions and revision issues need review; the outputs are screening candidates, not a fully validated risk dataset. All gaps are recorded. No SingStat data has been merged. The local Python environment is excluded; setup instructions and requirements are included.

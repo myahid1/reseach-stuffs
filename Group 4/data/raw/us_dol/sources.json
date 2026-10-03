@@ -1,0 +1,24 @@
+[
+  {
+    "file": "ILAB_ImportWatch_Core_Data.zip",
+    "download_url": "https://data.dol.gov/data-catalog/ILAB/ImportWatch_Core_Data/ILAB_ImportWatch_Core_Data.zip",
+    "landing_page": "https://dataportal.dol.gov/datasets/10295",
+    "retrieved_utc": "2026-10-03T15:43:35.141035+00:00",
+    "sha256": "2f4820547d35981f6710bc15edf8e43df07f8f6790e8306c37e8bb3a7d905303",
+    "archive_member": "2025-09-24 12_20_34 -0400_chunk_1.csv",
+    "extracted_file": "ILAB_ImportWatch_Core_Data.csv",
+    "extracted_sha256": "f72edc66910f73ced7d59919d9cd6c5b6b75169ebb175a37647c75d96312327f",
+    "rows": 446
+  },
+  {
+    "file": "ILAB_ImportWatch_Goods_HS.zip",
+    "download_url": "https://data.dol.gov/data-catalog/ILAB/ImportWatch_Goods_HS/ILAB_ImportWatch_Goods_HS.zip",
+    "landing_page": "https://dataportal.dol.gov/datasets/10294",
+    "retrieved_utc": "2026-10-03T15:43:35.142569+00:00",
+    "sha256": "0a42ae9a27724186cd2d4b9382bd9fb6b4c24e78bfd3250bf254cbfb7432b40e",
+    "archive_member": "2025-09-24 12_17_51 -0400_chunk_1.csv",
+    "extracted_file": "ILAB_ImportWatch_Goods_HS.csv",
+    "extracted_sha256": "b24f1d80b2009b010cc7ad03b0eb9e89579f0ac87daf67cbfb90cf6db8367e11",
+    "rows": 300
+  }
+]
