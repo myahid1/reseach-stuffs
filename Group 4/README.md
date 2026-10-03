@@ -1,15 +1,3 @@
-# Group 4: US DOL forced-labour data and HS6 screening
-
-Standalone handoff prepared 4 October 2026. Unzip this folder and keep its structure. No Git is needed. Raw downloads, runnable code, an executed notebook, and derived CSVs are included.
-
-## Start here
-
-- Open `notebooks/02_dol_data_cleaning.ipynb` for the workflow and saved results.
-- `data/raw/us_dol` contains original DOL ZIPs, unchanged extracted CSVs, and source/checksum records.
-- `data/raw/reference` contains the official UN Comtrade HS2022 classification and provenance.
-- `data/processed/dol_country_hs6_screening_2025.csv` is the deduplicated country/HS6 candidate table for a future trade-data join.
-- `data/processed/dol_mapping_review_2025.csv` and `dol_mapping_coverage_2025.csv` show gaps and broad mappings needing review.
-
 ## Result and limits
 
 The downloaded DOL snapshot has 446 country-good records and 300 mapping rows. Filtering its `fl` listing intervals for 2025 leaves **119 country-good pairs**. **91** have HS2022 candidates; **28** remain unmapped. There are **3,156 unique country/HS6 candidate pairs**, spanning **832 HS6 codes**.
